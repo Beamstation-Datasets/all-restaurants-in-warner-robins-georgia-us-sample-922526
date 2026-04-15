@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Local dining market data for Warner Robins in the Deep South. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Warner Robins, Georgia, US",
+  "export_job_id": "b4d2e940-c558-4aff-a3fd-f80b86d614c3",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 922526,
+  "location_name": "Warner Robins",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-warner-robins-georgia-us-sample-922526",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/922526/beamstation_922526_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_pct": 20.67,
+  "sample_records": 37,
+  "sample_sha256": "83487e998606396da01aef5f1901cc9189ca07e1c454d932c6978db67c8ffb54",
+  "sample_size_bytes": 131886,
+  "total_records": 179,
+  "updated_at": "2026-03-31T15:10:21.487388+00:00"
+}
