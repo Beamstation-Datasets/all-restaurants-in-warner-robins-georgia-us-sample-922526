@@ -9,9 +9,9 @@
 | Dataset ID | `922526` |
 | Location | Warner Robins |
 | Category | Restaurants |
-| Full dataset size | 179 records |
-| Free sample size | 37 records (20.67%) |
-| Last export | 2026-03-31T15:10:21.487388+00:00 |
+| Full dataset size | 374 records |
+| Free sample size | 37 records (9.89%) |
+| Last export | 2026-04-14T15:54:23.667191+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-warner-robins-georgia-us-sample-922526/releases/download/sample-latest/beamstation_922526_restaurants-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
