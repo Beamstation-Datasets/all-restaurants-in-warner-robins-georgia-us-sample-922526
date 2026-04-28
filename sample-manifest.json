@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8775dc4c-e9fb-4704-83cb-082547b7ed38",
+  "export_job_id": "9eec442c-6733-4f9b-a238-d640bc7bf871",
   "id_short": 922526,
-  "published_at": "2026-04-21T19:58:32Z",
+  "published_at": "2026-04-28T19:31:53Z",
   "repo_name": "all-restaurants-in-warner-robins-georgia-us-sample-922526",
   "sample_asset_name": "beamstation_922526_restaurants-us-ga_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/922526/beamstation_922526_restaurants-us-ga_SAMPLE_DIST.csv",
-  "sample_records": 23,
-  "sample_sha256": "f3f7c50dbf7d79a09e40d6afd034cc470658266a852a4767b51d27e2291272b3",
-  "sample_size_bytes": 94429,
-  "total_records": 235
+  "sample_records": 36,
+  "sample_sha256": "6f3b92ea8479c836cb7c03e2734b399669cb1376d218c48ad0bce5cf3a8330d4",
+  "sample_size_bytes": 117795,
+  "total_records": 364
 }
