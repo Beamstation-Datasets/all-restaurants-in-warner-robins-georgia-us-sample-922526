@@ -1,6 +1,6 @@
 # All Restaurants in Warner Robins, Georgia, US
 
-> Free BeamStation sample export with 23 rows and masked direct-contact fields.
+> Free BeamStation sample export with 36 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `922526` |
 | Location | Warner Robins |
 | Category | Restaurants |
-| Full dataset size | 235 records |
-| Free sample size | 23 records (9.79%) |
-| Last export | 2026-04-21T17:14:06.712773+00:00 |
+| Full dataset size | 364 records |
+| Free sample size | 36 records (9.89%) |
+| Last export | 2026-04-28T18:16:03.604492+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-warner-robins-georgia-us-sample-922526/releases/download/sample-latest/beamstation_922526_restaurants-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
